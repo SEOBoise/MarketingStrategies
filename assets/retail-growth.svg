@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="900" height="440" preserveAspectRatio="xMinYMin meet" viewBox="0 0 900 440" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="900" height="440"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-440)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="900" height="440" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 270,78 L 270,420 Z" style="stroke: rgb(91%,94%,96%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="261.33" y="58" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,116) scale(1,-1)">0%</text>
+			<path d="M 450,78 L 450,420 Z" style="stroke: rgb(91%,94%,96%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="441.33" y="58" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,116) scale(1,-1)">5%</text>
+			<path d="M 630,78 L 630,420 Z" style="stroke: rgb(91%,94%,96%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="617.994" y="58" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,116) scale(1,-1)">10%</text>
+			<path d="M 810,78 L 810,420 Z" style="stroke: rgb(91%,94%,96%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="797.994" y="58" style="font-family: Helvetica; font-size: 12px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,116) scale(1,-1)">15%</text>
+			<text x="134.9545" y="297.28" style="font-family: Helvetica; font-size: 14.5px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,594) scale(1,-1)">E-commerce sales</text>
+			<rect x="270.0" y="283.2" width="439.20000000000005" height="44.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,42%); fill-rule: evenodd;"/>
+			<text x="747.6" y="295.52" style="font-family: Helvetica-Bold; font-size: 16px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,591) scale(1,-1)">12.2%</text>
+			<path d="M 676.8,305.2 L 741.6,305.2 Z" style="stroke: rgb(9%,23%,32%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<path d="M 676.8,300.2 L 676.8,310.2 Z" style="stroke: rgb(9%,23%,32%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<path d="M 741.6,300.2 L 741.6,310.2 Z" style="stroke: rgb(9%,23%,32%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<text x="149.44" y="126.28" style="font-family: Helvetica; font-size: 14.5px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,252) scale(1,-1)">Total retail sales</text>
+			<rect x="270.0" y="112.2" width="241.2" height="43.999999999999986" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,42%); fill-rule: evenodd;"/>
+			<text x="535.2" y="124.52000000000001" style="font-family: Helvetica-Bold; font-size: 16px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,249) scale(1,-1)">6.7%</text>
+			<path d="M 493.2,134.2 L 529.2,134.2 Z" style="stroke: rgb(9%,23%,32%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<path d="M 493.2,129.2 L 493.2,139.2 Z" style="stroke: rgb(9%,23%,32%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<path d="M 529.2,129.2 L 529.2,139.2 Z" style="stroke: rgb(9%,23%,32%); stroke-linecap: butt; stroke-width: 1.3;"/>
+			<text x="35" y="24" style="font-family: Helvetica; font-size: 13px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,48) scale(1,-1)">Original release; subsequently flagged for revision.</text>
+		</g>
+	</g>
+</svg>

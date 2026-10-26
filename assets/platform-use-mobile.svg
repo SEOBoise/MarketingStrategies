@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="360" height="470" preserveAspectRatio="xMinYMin meet" viewBox="0 0 360 470" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="360" height="470"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-470)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="360" height="470" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 18,78 L 18,450 Z" style="stroke: rgb(91%,94%,96%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="11.497499999999999" y="58" style="font-family: Helvetica; font-size: 9px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,116) scale(1,-1)">0%</text>
+			<path d="M 89.75,78 L 89.75,450 Z" style="stroke: rgb(91%,94%,96%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="80.74549999999999" y="58" style="font-family: Helvetica; font-size: 9px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,116) scale(1,-1)">25%</text>
+			<path d="M 161.5,78 L 161.5,450 Z" style="stroke: rgb(91%,94%,96%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="152.4955" y="58" style="font-family: Helvetica; font-size: 9px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,116) scale(1,-1)">50%</text>
+			<path d="M 233.25,78 L 233.25,450 Z" style="stroke: rgb(91%,94%,96%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="224.2455" y="58" style="font-family: Helvetica; font-size: 9px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,116) scale(1,-1)">75%</text>
+			<path d="M 305,78 L 305,450 Z" style="stroke: rgb(91%,94%,96%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="293.4935" y="58" style="font-family: Helvetica; font-size: 9px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,116) scale(1,-1)">100%</text>
+			<text x="18" y="424.4" style="font-family: Helvetica; font-size: 11.5px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,848) scale(1,-1)">YouTube</text>
+			<rect x="18.0" y="400.4" width="241.08000000000004" height="18.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,42%); fill-rule: evenodd;"/>
+			<text x="265.08000000000004" y="405.44" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,810) scale(1,-1)">84%</text>
+			<text x="18" y="362.4" style="font-family: Helvetica; font-size: 11.5px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,724) scale(1,-1)">Facebook</text>
+			<rect x="18.0" y="338.4" width="203.77" height="18.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,42%); fill-rule: evenodd;"/>
+			<text x="227.77" y="343.44" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,686) scale(1,-1)">71%</text>
+			<text x="18" y="300.4" style="font-family: Helvetica; font-size: 11.5px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,600) scale(1,-1)">Instagram</text>
+			<rect x="18.0" y="276.4" width="143.5" height="18.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,42%); fill-rule: evenodd;"/>
+			<text x="167.5" y="281.44" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,562) scale(1,-1)">50%</text>
+			<text x="18" y="238.4" style="font-family: Helvetica; font-size: 11.5px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,476) scale(1,-1)">TikTok</text>
+			<rect x="18.0" y="214.4" width="106.19" height="18.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,42%); fill-rule: evenodd;"/>
+			<text x="130.19" y="219.44" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,438) scale(1,-1)">37%</text>
+			<text x="18" y="176.4" style="font-family: Helvetica; font-size: 11.5px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,352) scale(1,-1)">WhatsApp</text>
+			<rect x="18.0" y="152.4" width="91.84" height="18.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,42%); fill-rule: evenodd;"/>
+			<text x="115.84" y="157.44" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,314) scale(1,-1)">32%</text>
+			<text x="18" y="114.4" style="font-family: Helvetica; font-size: 11.5px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,228) scale(1,-1)">Reddit</text>
+			<rect x="18.0" y="90.4" width="74.62" height="18.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,41%,42%); fill-rule: evenodd;"/>
+			<text x="98.62" y="95.44000000000001" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,190) scale(1,-1)">26%</text>
+			<text x="18" y="24" style="font-family: Helvetica; font-size: 9px;fill: rgb(32%,34%,36%); stroke:none;" transform="translate(0,48) scale(1,-1)">Use overlaps; not advertising reach.</text>
+		</g>
+	</g>
+</svg>

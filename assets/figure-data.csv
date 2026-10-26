@@ -1,0 +1,13 @@
+figure,category,value,unit,boundary,period_or_inputs,source_id,evidence_type,uncertainty_half_width_percentage_points
+platform-use,YouTube,84,percent,U.S. adult ever-use; multiple platforms possible,Pew Research Center / February-June 2025,S8,survey,
+platform-use,Facebook,71,percent,U.S. adult ever-use; multiple platforms possible,Pew Research Center / February-June 2025,S8,survey,
+platform-use,Instagram,50,percent,U.S. adult ever-use; multiple platforms possible,Pew Research Center / February-June 2025,S8,survey,
+platform-use,TikTok,37,percent,U.S. adult ever-use; multiple platforms possible,Pew Research Center / February-June 2025,S8,survey,
+platform-use,WhatsApp,32,percent,U.S. adult ever-use; multiple platforms possible,Pew Research Center / February-June 2025,S8,survey,
+platform-use,Reddit,26,percent,U.S. adult ever-use; multiple platforms possible,Pew Research Center / February-June 2025,S8,survey,
+retail-growth,E-commerce sales,12.2,percent,"Q2 2026 year-over-year; seasonally adjusted, not price adjusted","Census / original August 18, 2026 release",S9,"statistical estimate, original release",0.9
+retail-growth,Total retail sales,6.7,percent,"Q2 2026 year-over-year; seasonally adjusted, not price adjusted","Census / original August 18, 2026 release",S9,"statistical estimate, original release",0.5
+break-even,25 additional customers,-3000,USD,"Contribution after marketing, before fixed overhead and tax","Illustrative: $120 contribution/customer; $6,000 marketing cost",CALC1,hypothetical calculation,
+break-even,50 additional customers,0,USD,"Contribution after marketing, before fixed overhead and tax","Illustrative: $120 contribution/customer; $6,000 marketing cost",CALC1,hypothetical calculation,
+break-even,75 additional customers,3000,USD,"Contribution after marketing, before fixed overhead and tax","Illustrative: $120 contribution/customer; $6,000 marketing cost",CALC1,hypothetical calculation,
+break-even,100 additional customers,6000,USD,"Contribution after marketing, before fixed overhead and tax","Illustrative: $120 contribution/customer; $6,000 marketing cost",CALC1,hypothetical calculation,
